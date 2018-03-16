@@ -47,6 +47,10 @@ public class TransactionRecordServicesImplTest {
 //        System.out.println(transactionRecord.getTransactionDate());
         System.out.println(date);
     }
+    @Test
+    public void test3(){
+        System.out.println("laocaizhenniu");
+    }
 
 
 }
